@@ -1,0 +1,14 @@
+* First of all you go to the, (VIEW NETWORK CONNECTIONS) by clicking on the windows logo
+
+* There, you see the wifi adapter it is connected to.
+
+* right click on it and go to properties.
+
+* then, you choose the protocol version/ (TCP/ IPV4 OPTION)
+
+* After that in the present and alternate server you change them as
+
+8.8.8.8
+8.8.4.4
+
+* Thats it boom, your internet starts working. 
